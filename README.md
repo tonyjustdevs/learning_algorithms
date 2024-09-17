@@ -133,7 +133,6 @@ Level 7a: Intervals (L6a required)
 - [ ] Meeting Rooms II  
 - [ ] Minimum Interval to Include Each Query  
 
-
 Level 7b: Greedy (L6a required)
 - [ ] Maximum Subarray  
 - [ ] Jump Game  
@@ -143,7 +142,6 @@ Level 7b: Greedy (L6a required)
 - [ ] Merge Triplets to Form Target Triplet  
 - [ ] Partition Labels  
 - [ ] Valid Parenthesis String   
-
 
 Level 7c: Advanced Graphs (L6a, L6b required)
 - [ ] Reconstruct Itinerary  
