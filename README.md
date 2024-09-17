@@ -1,6 +1,6 @@
 
 [Level 1: Arrays & Hashing](https://github.com/tonyjustdevs/learning_algorithms?tab=readme-ov-file#level-1-arrays--hashing)  
-[Level 2a: Two Pointers (L1 required)](https://github.com/tonyjustdevs/learning_algorithms?tab=readme-ov-file#level-2b-stacks-l1-required)  
+[Level 2a: Two Pointers (L1 required)](https://github.com/tonyjustdevs/learning_algorithms?tab=readme-ov-file#level-2a-two-pointers-l1-required)  
 [Level 2b: Stacks (L1 required)](https://github.com/tonyjustdevs/learning_algorithms?tab=readme-ov-file#level-2b-stacks-l1-required)  
 [Level 3a: Binary Search (L2a required)](https://github.com/tonyjustdevs/learning_algorithms?tab=readme-ov-file#level-3a-binary-search-l2a-required)  
 [Level 3b: Sliding Window (L2a required)](https://github.com/tonyjustdevs/learning_algorithms?tab=readme-ov-file#level-3b-sliding-window-l2a-required)  
